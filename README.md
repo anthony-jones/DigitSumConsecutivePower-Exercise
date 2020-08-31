@@ -1,0 +1,1 @@
+# DigitSumConsecutivePower-Exercise
